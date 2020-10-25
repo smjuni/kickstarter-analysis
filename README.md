@@ -32,7 +32,9 @@ The percentage of failed campaigns is the inverse relationship, as there are no 
 
 ### Challenges and Difficulties Encountered
 
-A challenge and difficulty I personally encountered was to do with the formatting of the second deliverable. The data needed to be sorted in a specific way to ensure that the x-axis variables were properly
+A challenge and difficulty I personally encountered was to do with the formatting of the second deliverable. The data needed to be sorted in a specific way to ensure that the x-axis variables were properly ordered. I overcame this difficulty by "moving" the row values around until they were in the correct order. 
+
+A challenge with the data set is that the two deliverables are measuring for different variables. They would be more meaningful to Louis if they were both refering to either the parent company of Theatre or the subcategory of "plays" as she is trying to compare her success with other kickstarters in her field.
 
 ## Results
 
