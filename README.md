@@ -32,6 +32,8 @@ The percentage of failed campaigns is the inverse relationship, as there are no 
 
 ### Challenges and Difficulties Encountered
 
+A challenge and difficulty I personally encountered was to do with the formatting of the second deliverable. The data needed to be sorted in a specific way to ensure that the x-axis variables were properly
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
