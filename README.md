@@ -13,14 +13,15 @@ The purpose of this analysis is to help Louise understand how other theatre and 
 <img src="resources/Theater_Outcomes_vs_Launch.png">
 </img>
 
-The most successful campaigns were launched between May and July, with the least successful campaigns launched in December. 
+By interpreting the data we can see that the the most successful campaigns were launched between May and July, with the least successful campaigns launched in December. 
+
 The canceled campaigns are fairly consistent and a low percentage of the overall theatre campaigns. The most canceled campaigns occur in January.
+
 The highest ratio of failed campaigns to successful campaigns is during October and December. October has the highest rate of failed campaigns, but December has the highest ratio.
 
 
 ### Analysis of Outcomes Based on Goals
 <img src="resources/Outcomes_vs_Goals.png"> </img>
-
 
 The percentage of successful campaigns decreases as the goal increases up until the $25000-$29999 mark. The percentage of successful campaigns then rises again up until the $45000 mark, where it drops dramatically. The most successful campaigns are the ones with the lowest goals (Less than $1000 at 76% successful). There are significantly less campaigns that request more than $25000
 
