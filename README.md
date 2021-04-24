@@ -1,4 +1,5 @@
 # Kickstarting with Excel
+## Excel 
 
 ## Overview of Project
 Louise is a director who recently held a Kickstarter campaign for her play, Fever. Fever achieved their funding goals. This project is to help Louise understand how other projects fared in their Kickstarter campaigns and whether there are any correlations of interest with other projects in regard to timing and goals.
